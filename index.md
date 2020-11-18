@@ -1,6 +1,6 @@
 # CYBER FOUNDATIONS NOTES
 
-[Copy and Paste This Into Your Lesson](https://www.dcsdms.org)
+[All Notes](https://www.dcsdms.org)
 
 Load The Documentation to Edit the Site (Editors Only)
 
