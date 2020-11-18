@@ -1,2 +1,2 @@
-# schoolnotes.github.io
+# aidengamedev.github.io
 School Notes
